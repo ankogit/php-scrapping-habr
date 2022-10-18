@@ -48,5 +48,5 @@ generateData($crawlerP2, $data);
 
 dd(count($data), json_encode($data));
 
-//copy result and paste in json parser http://json.parser.online.fr/
+//Скопировать строку в json парсер чтобы получить результат  http://json.parser.online.fr/
 
